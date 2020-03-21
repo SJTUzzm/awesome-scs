@@ -13,6 +13,7 @@
 * [Electronics Lab.](#es003)
 * [Computer Organization and Architecture](#is224)
 * [Compiler Principles](#is203)
+* [Information Theory and Coding](#is205)
 * [Digital System Design](#is208)
 * [Computer Communication and Network](#is301)
 * [Operating System](#is206)
@@ -77,6 +78,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - Homeworks_IS](https://github.com/somecat1996/Homeworks_IS)
 * [2017 - jsntlib](https://github.com/JarryShaw/jsntlib/tree/master)
 * [2017 - python_NumTheory](https://github.com/wangjksjtu/python_NumTheory)
+*  [2018 -  Mathematical-Caculation-Tools ](https://github.com/KuroChan1998/Mathematical-Caculation-Tools) 
 
 &nbsp;
 
@@ -113,6 +115,16 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 
 &nbsp;
 
+<a name="is205"> </a>
+
+### Information Theory and Coding
+> IS205 - 信息论与编码
+
+* [2018 - ITC](https://github.com/dujiajun/ITC)
+* [2019 - Huffman Coding](https://github.com/pydxflwb/Huffman-Coding)
+
+&nbsp;
+
 <a name="is208"> </a>
 
 ### Digital System Design
@@ -140,11 +152,16 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 * [2017 - SniffCat](https://github.com/somecat1996/SniffCat)
 * [2017 - WireSniffer](https://github.com/cpeggg/WireSniffer) (Written in `C#` on Windows platform)
 * [2017 - wsniffer](https://github.com/waderwu/wsniffer)
+* [2018 - SnifferZ](https://github.com/QingruZhang/SnifferZ)
 
 #### Packet Sender
 
 * [2016 - Trafficker](https://github.com/LyleMi/Trafficker)
+* [2018 - iSender](https://github.com/Yuran-Zhao/iSender)
 
+#### Chat Room
+
+* [2018 - ChatRoom](https://github.com/dujiajun/ChatRoom)
 
 &nbsp;
 
@@ -155,7 +172,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 
 * [2018 - ycq091044](https://github.com/ycq091044/Operating-System)
 * [2018 - wangjksjtu](https://github.com/wangjksjtu/IS-Assignments/tree/master/IS206)
-
+* [2019 - LuminousXLB](https://github.com/LuminousXLB/Lab_OS)
 
 &nbsp;
 
@@ -166,6 +183,7 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 
 * [2018 - DSSE-Notes](https://github.com/wangjksjtu/DSSE-Notes)
 * [2018 - Emotional-Notebook](https://github.com/zqzqz/notebook)
+* [2019 - GravityMaze](https://github.com/dujiajun/GravityMaze)
 
 &nbsp;
 
@@ -176,7 +194,8 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 
 * [2018 - Key-Vis](https://github.com/RickFreemanCui/KeyVis)
 * [2018 - Copyright-Chain-(ethereum app)](https://github.com/zqzqz/CR-chain)
-
+* [2019 - Student-Information-Administration-System](https://github.com/KuroChan1998/Student-Information-Administration-System)
+* [2019 - CourseBlock](https://github.com/dujiajun/CourseBlock)
 &nbsp;
 
 <a name="is303"> </a>
@@ -185,13 +204,14 @@ __PS__：这里列出**完成较好**，**文档较详细**的项目；由于使
 > IS303 - 数据挖掘
 
 * [2018 - Data-Mining-51Job](https://github.com/wangjksjtu/Data-Mining-51Job)
+* [2019 - Data-Mining-LianJia](https://github.com/QingruZhang/Data-Mining-LianJia-HousePrice-Prediction-Project)
 
 
-<!--
 &nbsp;
 
 <a name="is217"> </a>
 
 ### Principles of Computer Virus
 > IS217 - 计算机病毒原理
--->
+
+* [2019 - TaraRansomeware](https://github.com/LuminousXLB/TaraRansomeware)
